@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355573449121",
+    "project_id": "week5-auth-dashboard",
+    "storage_bucket": "week5-auth-dashboard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355573449121:android:11ba57b426f1878a324be0",
+        "android_client_info": {
+          "package_name": "com.example.week5_auth_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvogEwO3GEFBY2DoWrp0zEu9s6HezMmlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
